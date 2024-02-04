@@ -56,7 +56,7 @@ const NavBar = () => {
               {
                 NAVIGATION.map((navigation, index) => (
                   <Link to={navigation.link} className="active">
-                    <strong>0{index}</strong>
+                    <strong>0 {index} </strong>
                     {navigation.title}
                   </Link>
                 ))
