@@ -1,0 +1,71 @@
+
+.europa-img {
+    position: absolute;
+    top: 1840px;
+    margin-left: 100px;
+
+}
+
+
+
+
+.europa-head {
+    position: absolute;
+    top: 1870px;
+    color: white;
+    font-size: 100px;
+    font-style: bellefair;
+}
+
+.content-europa{
+    position: absolute;
+    top: 2080px;
+    color: #D0D6F9;
+        font-family: Barlow;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px;
+        padding-right: 90px;
+    
+
+}
+
+.horizontal-line-europa {
+    position: absolute;
+    top: 2300px;
+    margin-left: 1px;
+}
+
+
+.avg-europa {
+    position: absolute;
+    top: 2330px;
+    margin-left: 670px;
+    color: #D0D6F9;
+
+}
+
+.km-europa {
+    position: absolute;
+    top: 2360px;
+    margin-left: 670px;
+    color: #FFF;
+
+}
+
+.est-europa {
+    position: absolute;
+    top: 2330px;
+    margin-left: 320px;
+    color: #D0D6F9;
+
+}
+
+.days-europa {
+    position: absolute;
+    top: 2360px;
+    margin-left: 320px;
+    color: #FFF;
+
+}

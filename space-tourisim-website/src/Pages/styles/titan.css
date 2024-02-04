@@ -1,0 +1,67 @@
+.titan-img {
+    position: absolute;
+    top: 2700px;
+    margin-left: 100px;
+
+}
+
+
+.titan-head {
+    position: absolute;
+    top: 2800px;
+    color: white;
+    font-size: 100px;
+    font-style: bellefair;
+}
+
+.content-titan {
+    position: absolute;
+    top: 3000px;
+    color: #D0D6F9;
+        font-family: Barlow;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px;
+        padding-right: 90px;
+
+}
+
+.horizontal-line-titan {
+    position: absolute;
+    top: 3210px;
+    margin-left: 1px;
+}
+
+
+.avg-titan {
+    position: absolute;
+    top: 3240px;
+    margin-left: 670px;
+    color: #D0D6F9;
+
+}
+
+.km-titan {
+    position: absolute;
+    top: 3270px;
+    margin-left: 670px;
+    color: #FFF;
+
+}
+
+.est-titan {
+    position: absolute;
+    top: 3240px;
+    margin-left: 320px;
+    color: #D0D6F9;
+
+}
+
+.days-titan{
+    position: absolute;
+    top: 3270px;
+    margin-left: 320px;
+    color: #FFF;
+
+}
